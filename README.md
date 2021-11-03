@@ -5,4 +5,4 @@ Here is link to Drew Ryan's free tutorial on where he has a coupon for the Udemy
 
 ![Drew Ryan's HTML Tutorial](https://w3newbie.com/html-email-mastery-course-coupon/ "HTML Email Mastery Course Coupon")
 
-![HTML Email Mastery](https://www.udemy.com/course/html-email/ "HTML Email Mastery Course")
+![HTML Email Mastery](https://www.udemy.com/course/html-email/ "HTML Email Mastery Course")# the-spa-responsive-email-sample
